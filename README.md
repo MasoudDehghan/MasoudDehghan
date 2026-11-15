@@ -22,6 +22,17 @@ Leading the end-to-end web modernization of **b4**, an enterprise RPA and IT Pro
 > 💼 Most of my commercial production code runs in private enterprise repositories under NDA. Architectural deep dives and engineering notes are shared on my [LinkedIn](https://linkedin.com/in/masoud-dehghan).
 
 ---
+## Featured Project: NetPulse Cloud
+
+A personal network-device inventory project applying my NMS/OSS
+background to modern Java engineering practices.
+
+- Contract-first REST API with OpenAPI and generated Spring interfaces
+- Hexagonal package structure with ArchUnit dependency rules
+- PostgreSQL schema migrations with Flyway and Hibernate validation
+- Testcontainers tests for persistence, rollback and optimistic locking
+
+[Explore the repository](https://github.com/MasoudDehghan/netpulse-cloud)
 
 ## 🛠 Tech Stack
 
